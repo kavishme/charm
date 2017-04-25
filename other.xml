@@ -1,0 +1,23 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/bagg/.venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/bagg/.venv/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/workspace/bagg/.venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="StepicUpdateSettings">
+    <option name="lastTimeChecked" value="1492735022658" />
+    <option name="LAST_TIME_CHECKED" value="1492735022658" />
+  </component>
+</application>
